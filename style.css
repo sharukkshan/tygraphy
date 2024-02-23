@@ -1,0 +1,25 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.data{
+    width: 30%;
+}
+.iframe{
+    width: 30%;
+}
+.data{
+    color: rgba(0,0,0,0.6);
+}
+h2{
+    font size: 1.5rem;
+    padding : 30px 0px;
+    justify content : :left
+}
